@@ -1,7 +1,7 @@
 // make a simple caluculator
 var a=10
 var b=20
-op=""
+op="*"
 if(op=="+"){
     console.log(`${a}+${b}=${a+b}`);
     

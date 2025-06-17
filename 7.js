@@ -9,4 +9,4 @@ function convert(km,miles) {
     
 }
 convert(1000,100)
-console.log(convert);
+
